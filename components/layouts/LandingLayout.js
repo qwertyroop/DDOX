@@ -74,14 +74,14 @@ export default function LandingLayout({ children }) {
         />
         <meta
           property="og:image"
-          content="https://raw.githubusercontent.com/danielcranney/repo-storage/main/profile-me-social-image.png"
+          content="https://ik.imagekit.io/t6luarqrmc/social-image?updatedAt=1709450280992"
         />
         <meta property="og:url" content="http://www.DDOX.dev" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta property="twitter:title" content="DDOX.dev" />
         <meta
           property="twitter:image"
-          content="https://raw.githubusercontent.com/danielcranney/repo-storage/main/profile-me-social-image.png"
+          content="https://ik.imagekit.io/t6luarqrmc/social-image?updatedAt=1709450280992"
         />
         <meta
           property="twitter:description"

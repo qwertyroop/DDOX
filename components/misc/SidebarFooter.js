@@ -26,7 +26,7 @@ const SidebarFooter = () => {
         </a>{" "}
         |{" "}
         <a
-          href="https://www.buymeacoffee.com/danielcranney"
+          href="https://www.https://www.buymeacoffee.com/vetcharoopesh"
           rel="noreferrer"
           target="_blank"
           className="flex ml-1.5 opacity-70 hover:opacity-100 text-white hover:text-white transition-all duration-150 ease-in-out"
